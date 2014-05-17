@@ -1,0 +1,2 @@
+class NewRoomController < ApplicationController
+end
